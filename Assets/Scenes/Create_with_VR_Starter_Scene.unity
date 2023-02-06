@@ -2853,8 +2853,8 @@ Transform:
   - {fileID: 1682217578}
   - {fileID: 145708435}
   - {fileID: 86819629}
-  - {fileID: 1406386796}
   - {fileID: 1061926094}
+  - {fileID: 1406386796}
   - {fileID: 1234520636}
   - {fileID: 73221226}
   - {fileID: 1815480878}
@@ -4332,7 +4332,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
+  m_RaycastTarget: 0
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
   m_OnCullStateChanged:
