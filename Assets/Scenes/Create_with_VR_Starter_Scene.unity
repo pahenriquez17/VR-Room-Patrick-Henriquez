@@ -1228,7 +1228,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: a1a53b7f-2dd8-4917-9863-9b5ca47db4c4
-      m_Path: <Keyboard>/b
+      m_Path: <XRController>{LeftHand}/primaryButton
       m_Interactions: 
       m_Processors: 
       m_Groups: 
@@ -2708,7 +2708,7 @@ MonoBehaviour:
     m_SingletonActionBindings:
     - m_Name: 
       m_Id: 9e9e65f8-bb4d-4d59-b5f7-4b39a5723d4f
-      m_Path: <Keyboard>/b
+      m_Path: <XRController>{RightHand}/primaryButton
       m_Interactions: 
       m_Processors: 
       m_Groups: 
